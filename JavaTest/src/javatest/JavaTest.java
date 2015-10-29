@@ -19,5 +19,4 @@ public class JavaTest {
         
         java.lang.System.out.print("hejsan");
     }
-    
 }
